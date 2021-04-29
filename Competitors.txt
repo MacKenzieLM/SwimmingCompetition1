@@ -1,0 +1,5 @@
+228,James Bell,24,Torquay,Breaststroke,250,215.13,12,Birmingham,0,2016-12-20 14.45,214.34,1,217.08,Montreal,18,3[2G,  1S,  3B]217.08
+346,Matt Stone,27,London,Breaststroke,250,215.13,12,Birmingham,0,2016-12-20 14.45,214.34,7,225.76,Tokyo,2,2[1S,  3B]220.47
+424,David Drake,30,Belfast,Breaststroke,100,54.01,15,Southampton,0,2016-11-15 12.30,54.09,1,54.01,Blackpool,22,2[7G,  7B]54.01
+100,Alex Moss,19,Glasgow,Breaststroke,100,54.01,15,Southampton,0,2016-11-15 12.30,54.09,3,54.45,Milan,9,3[2G,  1S,  1B]54.45
+762,Bill Sykes,21,Basildon,Breaststroke,1000,766.9,17,York,0,2016-09-12 11.50,765.58,5,760.65,New York,3,2[1G,  2S]760.65
